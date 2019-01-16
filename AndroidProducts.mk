@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_namath.mk
+    $(LOCAL_DIR)/mokee_namath.mk
